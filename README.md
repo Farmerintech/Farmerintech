@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farmerintech" alt="farmerintech" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/farmerintech" target="blank"><img src="https://img.shields.io/twitter/follow/farmerinweb3?logo=twitter&style=for-the-badge" alt="farmerintech" /></a> </p>
+<p align="left"> <a href="https://twitter.com/farmerintech" target="blank"><img src="https://img.shields.io/twitter/follow/farmerintech?logo=twitter&style=for-the-badge" alt="farmerintech" /></a> </p>
 
 - 🔭 I’m currently working on **Web 3 DApp**
 
