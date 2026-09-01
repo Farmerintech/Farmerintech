@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yakub Shakirudeen Olaide (Farmerintech)</h1>
-<h3 align="center">A passionate Full stack web 2, smart contract and web3 DApp developerfrom Nigeria</h3>
-<p>A passionate agricultural economist, food security researcher, and full-stack developer from Nigeria, advancing household food security and climate-smart agriculture through econometric analysis of food insecurity and poverty, using qualitative and quantitative research design.</p>
+<!-- <h3 align="center">A passionate Full stack web 2, smart contract and web3 DApp developerfrom Nigeria</h3> -->
+<h3>A passionate agricultural economist, food security researcher, and full-stack developer from Nigeria.</h3>
 
-<p>Proficient in application design, evident upon development of offline-first agricultural advisory applications, while using programming languages such as Python, JavaScript, React, Next.js, React Native, and Node.js to translate data-driven insights into scalable, farmer-centered climate-resilience solutions.</p>
+<!-- <p>Proficient in application design, evident upon development of offline-first agricultural advisory applications, while using programming languages such as Python, JavaScript, React, Next.js, React Native, and Node.js to translate data-driven insights into scalable, farmer-centered climate-resilience solutions.</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farmerintech&label=Profile%20views&color=0e75b6&style=flat" alt="farmerintech" /> </p>
 
